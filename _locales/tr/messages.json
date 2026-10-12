@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "ReqLab – İstek Denetleyici ve API İstemcisi"
+  },
+  "extDesc": {
+    "message": "Sayfanın her isteğini yakala, düzenleyip yeniden gönder, REST API test et, sahte yanıt ver, başlıkları değiştir. Yazılımcılar için."
+  },
+  "menuOpenPanel": {
+    "message": "Yan panelde aç (sayfanın yanında)"
+  },
+  "menuOpenTab": {
+    "message": "Sekmede aç"
+  },
+  "menuOpenWindow": {
+    "message": "Ayrı pencerede aç"
+  },
+  "menuOpenFullscreen": {
+    "message": "Tam ekran aç"
+  },
+  "cmdOpenPanel": {
+    "message": "ReqLab’i yan panelde aç"
+  },
+  "cmdOpenTab": {
+    "message": "ReqLab’i sekmede aç"
+  }
+}

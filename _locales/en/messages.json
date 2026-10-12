@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "ReqLab – Request Inspector & API Client"
+  },
+  "extDesc": {
+    "message": "Capture every request a page makes, edit and resend it, test REST APIs, mock responses and rewrite headers. Built for developers."
+  },
+  "menuOpenPanel": {
+    "message": "Open in side panel (next to the page)"
+  },
+  "menuOpenTab": {
+    "message": "Open in a tab"
+  },
+  "menuOpenWindow": {
+    "message": "Open in a separate window"
+  },
+  "menuOpenFullscreen": {
+    "message": "Open full screen"
+  },
+  "cmdOpenPanel": {
+    "message": "Open ReqLab in the side panel"
+  },
+  "cmdOpenTab": {
+    "message": "Open ReqLab in a tab"
+  }
+}
