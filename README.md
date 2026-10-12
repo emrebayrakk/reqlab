@@ -126,7 +126,7 @@ app/                   Uygulama (Ağ, İstemci, Koleksiyonlar, Kurallar, Ayarlar
 
 ## Gizlilik · Privacy
 
-ReqLab hiçbir veriyi dışarı göndermez. Ayrıntılar: [PRIVACY.md](PRIVACY.md).
+ReqLab hiçbir veriyi dışarı göndermez. Ayrıntılar: [PRIVACY.md](PRIVACY.md) · [web sayfası](https://emrebayrakk.github.io/reqlab/privacy.html).
 _ReqLab sends no data anywhere. Details: [PRIVACY.md](PRIVACY.md)._
 
 ## Lisans · License
